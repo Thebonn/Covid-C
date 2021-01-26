@@ -1,0 +1,15 @@
+V: 66,330,000 - 68,410,000
+R: 72,284,123 - 72,456,083
+C: 100,278,790 - 100,422,858
+O: 2,148,962 - 2,153,599
+25/01/2021
+------------------------------------
+PT-BR
+Cada variável precisa de dois valores:
+A subtração de valores entre hoje e ontem e o valor atual.
+Depois disso, é preciso colocar a data de ontem, para mostrar que foi atualizado com
+os valores de ontem.
+
+informações retiradas destes sites:
+https://www.worldometers.info/coronavirus/
+https://ourworldindata.org/covid-vaccinations
